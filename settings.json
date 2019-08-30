@@ -1,31 +1,35 @@
 {
-    "editor.tabSize": 2,
-    "editor.detectIndentation": false,
-    "files.autoSave": "onFocusChange",
-    "terminal.integrated.scrollback": 10000,
-    "editor.wordWrap": "on",
-    "terminal.integrated.rendererType": "dom",
-    "files.trimTrailingWhitespace": true,
-    "files.trimFinalNewlines": true,
-    "files.insertFinalNewline": true,
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "workbench.iconTheme": "vscode-icons",
-    "vsicons.dontShowNewVersionMessage": true,
-    "editor.tabCompletion": "on",
-    "autoimport.filesToScan": "**/*.{js,jsx,ts,tsx}",
-    "files.associations": {
-        "*.js": "javascriptreact"
-    },
-    "emmet.includeLanguages": {
-        "javascript": "javascriptreact",
-        "vue-html": "html",
-        "razor": "html",
-        "ejs": "html",
-        "plaintext": "jade"
-    },
-    "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "files.autoSave": "onFocusChange",
+  "terminal.integrated.scrollback": 10000,
+  "editor.wordWrap": "on",
+  "terminal.integrated.rendererType": "dom",
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
+  "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.tabCompletion": "on",
+  "autoimport.filesToScan": "**/*.{js,jsx,ts,tsx}",
+  "files.associations": {
+      "*.js": "javascriptreact"
+  },
+  "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+      "jsx-sublime-babel-tags": "javascriptreact",
+  },
+  // "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "xml": {
+        "attr_quotes": "single"
+    }
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
 }
