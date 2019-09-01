@@ -1,70 +1,71 @@
-abusaidm.html-snippets
-akamud.vscode-javascript-snippet-pack
-alexandersage.angular1-code-snippets
-Angular.ng-template
-bibhasdn.random-string-password-generator
-bmewburn.vscode-intelephense-client
-burkeholland.simple-react-snippets
-ChakrounAnas.turbo-console-log
-christian-kohler.npm-intellisense
-christian-kohler.path-intellisense
-CoenraadS.bracket-pair-colorizer
-dbaeumer.vscode-eslint
-discountry.react-redux-react-router-snippets
-donjayamanne.githistory
-DotJoshJohnson.xml
-dsznajder.es7-react-js-snippets
-eamodio.gitlens
-ecmel.vscode-html-css
-EditorConfig.EditorConfig
-eg2.tslint
-eg2.vscode-npm-script
-EQuimper.react-native-react-redux
-esbenp.prettier-vscode
-felixfbecker.php-debug
-felixfbecker.php-intellisense
-formulahendry.auto-close-tag
-formulahendry.auto-rename-tag
-geequlim.godot-tools
-HookyQR.beautify
-ikappas.phpcs
-infeng.vscode-react-typescript
-jasonnutter.search-node-modules
-jawandarajbir.react-vscode-extension-pack
-johnpapa.Angular1
-johnpapa.Angular2
-joshpeng.sublime-babel-vscode
-jpoissonnier.vscode-styled-components
-k--kato.intellij-idea-keybindings
-kevinmcgowan.TypeScriptImport
-kisstkondoros.vscode-gutter-preview
-kumar-harsh.graphql-for-vscode
-lihui.vs-color-picker
-mgmcdermott.vscode-language-babel
-Mikael.Angular-BeastCode
-mikestead.dotenv
-mrmlnc.vscode-scss
-ms-azuretools.vscode-docker
-MS-CEINTL.vscode-language-pack-fr
-ms-vscode.typescript-javascript-grammar
-ms-vscode.vscode-typescript-tslint-plugin
-ms-vsliveshare.vsliveshare
-msjsdiag.vscode-react-native
-NuclleaR.vscode-extension-auto-import
-onecentlin.laravel-blade
-onecentlin.laravel5-snippets
-plievone.vscode-template-literal-editor
-pranaygp.vscode-css-peek
-rbbit.typescript-hero
-ritwickdey.LiveServer
-robinbentley.sass-indented
-sibiraj-s.vscode-scss-formatter
-steoates.autoimport
-vscode-icons-team.vscode-icons
-vscodevim.vim
-walter-ribeiro.full-react-snippets
-whatwedo.twig
-wix.vscode-import-cost
-xabikos.JavaScriptSnippets
-xabikos.ReactSnippets
-Zignd.html-css-class-completion
+$ code --list-extensions | xargs -L 1 echo code --install-extension
+code --install-extension abusaidm.html-snippets
+code --install-extension akamud.vscode-javascript-snippet-pack
+code --install-extension alexandersage.angular1-code-snippets
+code --install-extension Angular.ng-template
+code --install-extension bibhasdn.random-string-password-generator
+code --install-extension bmewburn.vscode-intelephense-client
+code --install-extension burkeholland.simple-react-snippets
+code --install-extension ChakrounAnas.turbo-console-log
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension christian-kohler.path-intellisense
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension discountry.react-redux-react-router-snippets
+code --install-extension donjayamanne.githistory
+code --install-extension DotJoshJohnson.xml
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension eamodio.gitlens
+code --install-extension ecmel.vscode-html-css
+code --install-extension EditorConfig.EditorConfig
+code --install-extension eg2.tslint
+code --install-extension eg2.vscode-npm-script
+code --install-extension EQuimper.react-native-react-redux
+code --install-extension esbenp.prettier-vscode
+code --install-extension felixfbecker.php-debug
+code --install-extension felixfbecker.php-intellisense
+code --install-extension formulahendry.auto-close-tag
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension geequlim.godot-tools
+code --install-extension HookyQR.beautify
+code --install-extension ikappas.phpcs
+code --install-extension infeng.vscode-react-typescript
+code --install-extension jasonnutter.search-node-modules
+code --install-extension jawandarajbir.react-vscode-extension-pack
+code --install-extension johnpapa.Angular1
+code --install-extension johnpapa.Angular2
+code --install-extension joshpeng.sublime-babel-vscode
+code --install-extension jpoissonnier.vscode-styled-components
+code --install-extension k--kato.intellij-idea-keybindings
+code --install-extension kevinmcgowan.TypeScriptImport
+code --install-extension kisstkondoros.vscode-gutter-preview
+code --install-extension kumar-harsh.graphql-for-vscode
+code --install-extension lihui.vs-color-picker
+code --install-extension mgmcdermott.vscode-language-babel
+code --install-extension Mikael.Angular-BeastCode
+code --install-extension mikestead.dotenv
+code --install-extension mrmlnc.vscode-scss
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension MS-CEINTL.vscode-language-pack-fr
+code --install-extension ms-vscode.typescript-javascript-grammar
+code --install-extension ms-vscode.vscode-typescript-tslint-plugin
+code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension msjsdiag.vscode-react-native
+code --install-extension NuclleaR.vscode-extension-auto-import
+code --install-extension onecentlin.laravel-blade
+code --install-extension onecentlin.laravel5-snippets
+code --install-extension plievone.vscode-template-literal-editor
+code --install-extension pranaygp.vscode-css-peek
+code --install-extension rbbit.typescript-hero
+code --install-extension ritwickdey.LiveServer
+code --install-extension robinbentley.sass-indented
+code --install-extension sibiraj-s.vscode-scss-formatter
+code --install-extension steoates.autoimport
+code --install-extension vscode-icons-team.vscode-icons
+code --install-extension vscodevim.vim
+code --install-extension walter-ribeiro.full-react-snippets
+code --install-extension whatwedo.twig
+code --install-extension wix.vscode-import-cost
+code --install-extension xabikos.JavaScriptSnippets
+code --install-extension xabikos.ReactSnippets
+code --install-extension Zignd.html-css-class-completion
